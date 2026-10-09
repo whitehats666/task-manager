@@ -1,0 +1,6 @@
+{
+  "name": "AmNexus - Employee Task & Output Management System",
+  "description": "AmNexus: Streamlined employee task and output management system with black, white, and golden aesthetic.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

@@ -1,0 +1,73 @@
+{
+  "users": [
+    {
+      "id": "user_admin",
+      "email": "admin@example.com",
+      "password_hash": "$2b$10$xWIso1j/WK9PvVKIUj8lWOvMjKuu3T.2aw6THocJU5PRBrcKID2PC",
+      "role": "ADMIN",
+      "full_name": "Administrator",
+      "phone": "+1 (555) 000-1122",
+      "job_title": "Managing Director & Operations Head",
+      "department": "Executive",
+      "profile_photo": "",
+      "status": "Active",
+      "created_at": "2026-01-01T00:00:00.000Z"
+    },
+    {
+      "id": "user_lead",
+      "email": "teamlead@example.com",
+      "password_hash": "$2b$10$IE5g/Fev8kPfoPg.vDukuOEOqRssXQgj1tna7XepvMfXqHyAahHdK",
+      "role": "TEAM_LEAD",
+      "full_name": "Team Lead",
+      "company_id": "comp_asquare",
+      "phone": "+1 (555) 000-3344",
+      "job_title": "Engineering Team Lead",
+      "department": "Engineering & Operations",
+      "profile_photo": "",
+      "status": "Active",
+      "created_at": "2026-01-20T08:30:00.000Z"
+    }
+  ],
+  "companies": [
+    {
+      "id": "comp_asquare",
+      "name": "Asquare Technologies",
+      "code": "ASQ",
+      "email": "info@asquare.tech",
+      "phone": "+1 (555) 234-5678",
+      "address": "Suite 400, 100 Innovation Blvd, Tech Park, CA",
+      "website": "https://asquare.tech",
+      "status": "Active",
+      "created_at": "2026-01-10T09:00:00.000Z",
+      "updated_at": "2026-01-10T09:00:00.000Z"
+    },
+    {
+      "id": "comp_nexacorp",
+      "name": "NexaCorp Solutions",
+      "code": "NEX",
+      "email": "contact@nexacorp.io",
+      "phone": "+1 (555) 345-6789",
+      "address": "Floor 12, Financial District, New York, NY",
+      "website": "https://nexacorp.io",
+      "status": "Active",
+      "created_at": "2026-01-15T09:00:00.000Z",
+      "updated_at": "2026-01-15T09:00:00.000Z"
+    },
+    {
+      "id": "comp_vertex",
+      "name": "Vertex Dynamics",
+      "code": "VTX",
+      "email": "hello@vertexdynamics.com",
+      "phone": "+1 (555) 456-7890",
+      "address": "742 Evergreen Terrace, Austin, TX",
+      "website": "https://vertexdynamics.com",
+      "status": "Active",
+      "created_at": "2026-02-01T09:00:00.000Z",
+      "updated_at": "2026-02-01T09:00:00.000Z"
+    }
+  ],
+  "employees": [],
+  "tasks": [],
+  "task_activities": [],
+  "output_history": []
+}
